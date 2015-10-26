@@ -88,13 +88,19 @@
 	   </div>
 	   
 	    <div class="myPanel">
-	    <div class="heading"><b>My Heading</b></div>
+	    <div class="heading2"><b>My Heading</b></div>
 		<div class="body"></div><br>
 		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
 	   </div>
 	   
 	    <div class="myPanel">
-	    <div class="heading"><b>My Heading</b></div>
+	    <div class="heading3"><b>My Heading</b></div>
+		<div class="body"></div><br>
+		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
+	   </div>
+	   
+	    <div class="myPanel">
+	    <div class="heading4"><b>My Heading</b></div>
 		<div class="body"></div><br>
 		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
 	   </div>
