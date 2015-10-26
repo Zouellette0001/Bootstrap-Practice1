@@ -80,6 +80,27 @@
 		  <a href="#" class="btn btn-default btn-sm btn-info">Button5</a>
 	   
 	   </div>  
+	   
+	   <div class="myPanel">
+	    <div class="heading"><b>My Heading</b></div>
+		<div class="body"></div><br>
+		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
+	   </div>
+	   
+	    <div class="myPanel">
+	    <div class="heading"><b>My Heading</b></div>
+		<div class="body"></div><br>
+		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
+	   </div>
+	   
+	    <div class="myPanel">
+	    <div class="heading"><b>My Heading</b></div>
+		<div class="body"></div><br>
+		   <p> This is a practice template for future employers to view. Shows that i understand how to use HTML,CSS, Bootstrap, and jQuery!</p>
+	   </div>
+	   
+	   
+		 
 	
 	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
